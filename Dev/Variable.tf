@@ -1,0 +1,11 @@
+variable "resource_groups" {}
+variable "storage_accounts" {}
+variable "storage_containers" {}
+variable "virtual_networks" {}
+variable "subnet" {}
+variable "public_ip" {}
+variable "nic" {}
+variable "virtual_machine" {}
+variable "nsg" {}
+variable "bastion" {}
+variable "app_gateway" {}
